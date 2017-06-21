@@ -5,7 +5,7 @@
 
 ## Description
 
-
+The website will allow the user to make an account and search through shows from a third-party API, and then add these shows to a list of their favorites. All the shows have descriptions as well, so they can discover new programs to watch. They can also comment on shows, and see a list of all their favorites in their profile.
 
 ## Getting Started
 
