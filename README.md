@@ -3,6 +3,10 @@
 
 ---
 
+## Description
+
+
+
 ## Getting Started
 
 This is the proposal repository for our project. This project is split into two functional repros: our front-end React application and our back end Express API. These repros can be located:
@@ -27,12 +31,12 @@ Give examples
 
 ### Wireframes
 
-(WIREFRAMES GO HERE)
+![Wireframes](./assets/wireframe.jpg)
 
 
 ## User Stories
 
-(USER STORIES GO HERE)
+[User Stories](https://trello.com/b/Jb9dkSaO/user-stories)
 
 ---
 
