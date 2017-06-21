@@ -7,10 +7,12 @@
 
 This is the proposal repository for our project. This project is split into two functional repros: our front-end React application and our back end Express API. These repros can be located:
 
-- Front:
-- Back:
+- **Front**: [https://git.generalassemb.ly/jonnycakes/tvflix-front](https://git.generalassemb.ly/jonnycakes/tvflix-front)
+- **Back**: [https://git.generalassemb.ly/jonnycakes/tvflix-back](https://git.generalassemb.ly/jonnycakes/tvflix-back)
 
-### Prerequisites
+---
+
+## Prerequisites
 
 What things you need to install the software and how to install them
 
@@ -18,7 +20,23 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Installing
+### ERD
+
+![ERD](./assets/erd.png)
+
+
+### Wireframes
+
+(WIREFRAMES GO HERE)
+
+
+## User Stories
+
+(USER STORIES GO HERE)
+
+---
+
+## Installing
 
 A step by step series of examples that tell you have to get a development env running
 
@@ -39,22 +57,6 @@ End with an example of getting some data out of the system or using it for a lit
 ## Running the tests
 
 Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
