@@ -72,9 +72,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [REACT](https://facebook.github.io/react/) 
+* [AXIOS](https://www.npmjs.com/package/axios) 
+* [React-Router](https://www.npmjs.com/package/react-router) 
 
 ## Contributing
 
@@ -86,7 +86,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **John Farrely** 
+* **Celine Chadwick** 
+* **Diane Carlton** 
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
