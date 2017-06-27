@@ -33,6 +33,10 @@ Give examples
 
 ![Wireframes](./assets/wireframe.jpg)
 
+### Routes
+
+![routes](./assets/routes.jpg)
+
 
 ## User Stories
 
