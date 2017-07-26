@@ -1,5 +1,5 @@
 # tvflix
-** The TV Show Commenting System for Project Three **
+** The TV Show Commenting System **
 
 ---
 
@@ -9,10 +9,10 @@ The website will allow the user to make an account and search through shows from
 
 ## Getting Started
 
-This is the proposal repository for our project. This project is split into two functional repros: our front-end React application and our back end Express API. These repros can be located:
+This is the proposal repository for our project. This project is split into two functional repos: our front-end React application and our back end Express API. These repos can be found here:
 
-- **Front**: [https://git.generalassemb.ly/jonnycakes/tvflix-front](https://git.generalassemb.ly/jonnycakes/tvflix-front)
-- **Back**: [https://git.generalassemb.ly/jonnycakes/tvflix-back](https://git.generalassemb.ly/jonnycakes/tvflix-back)
+- **Front**: [https://github.com/celinechadwick/tvflix-front](https://github.com/celinechadwick/tvflix-front)
+- **Back**: [https://github.com/celinechadwick/tvflix-back](https://github.com/celinechadwick/tvflix-back)
 
 ---
 
