@@ -1,6 +1,5 @@
 # tvflix
 ** The TV Show Commenting System **
-[https://tvflix-front.herokuapp.com/shows](https://tvflix-front.herokuapp.com/shows)
 ---
 
 ## Description
@@ -13,6 +12,7 @@ This is the proposal repository for our project. This project is split into two 
 
 - **Front**: [https://github.com/celinechadwick/tvflix-front](https://github.com/celinechadwick/tvflix-front)
 - **Back**: [https://github.com/celinechadwick/tvflix-back](https://github.com/celinechadwick/tvflix-back)
+- **Heroku**: [https://tvflix-front.herokuapp.com/shows](https://tvflix-front.herokuapp.com/shows)
 
 ---
 
